@@ -1,8 +1,6 @@
-# third_screen_navigator
+# Navigation between three screens
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+## Changing the text-button, according to the previous position.
 
-Navigation between three screens; 
-Changing the text-button, according to the previous position.
